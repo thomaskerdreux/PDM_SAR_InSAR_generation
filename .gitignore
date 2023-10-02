@@ -1,0 +1,11 @@
+__pycache__/*
+utils/__pycache__/*
+feature_extraction/__pycache__/*
+improved_diffusion/__pycache__/*
+datasets/__pycache__/*
+images/*
+!models_data/.gitkeep
+data/*
+!data/.gitkeep
+*.pt
+old/*
